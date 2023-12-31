@@ -2,8 +2,8 @@
 
 This README provides an overview of a simple web infrastructure designed for hosting a website accessible via www.foobar.com. The infrastructure comprises one server using a LAMP (Linux, Apache, MySQL, PHP/Python/Perl) stack. Below are the details and explanations.
 
-The link to get to the image https://drive.google.com/file/d/1zHPxFiYJYrpRaIoD9frhmRIUadMSmlAO/view?usp=drive_link
-
+![The link to get to the image](https://drive.google.com/file/d/1zHPxFiYJYrpRaIoD9frhmRIUadMSmlAO/view?usp=drive_link
+) 
 ## Infrastructure Components:
 
 ### 1. Server:
