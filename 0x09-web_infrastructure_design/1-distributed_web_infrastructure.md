@@ -1,4 +1,5 @@
 # Three-Server Web Infrastructure Design
+![The link to get to the image](./1-distributed_web_infrastructure.png)
 
 ## Components:
 
@@ -33,7 +34,7 @@
 ### 7. Second Server:
 - **Reasoning:**
   - Provides an additional server for hosting components, improving fault tolerance.
-![The link to get to the image](./1-distributed_web_infrastructure.png)
+
 
 ## Specifics about the Infrastructure:
 
