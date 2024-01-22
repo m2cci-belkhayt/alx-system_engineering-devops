@@ -1,0 +1,13 @@
+#!/bin/bash
+
+# Set the server name
+server="373334-web-01"
+
+# Set the private key file
+private_key="~/.ssh/school"
+
+# Set the username
+username="ubuntu"
+
+# SSH connection using single-character flags
+ssh -i "$private_key" "$username"@"$server"
