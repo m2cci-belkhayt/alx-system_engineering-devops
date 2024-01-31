@@ -1,6 +1,4 @@
 #!/usr/bin/env bash
 
-apt-get update
-apt-get install nginx -y
-sed -i '/listen 80;/c\    listen 80 default_server;' /etc/nginx/sites-available/default
+sed -i "s/8080/80/g" /etc/nginx/sites-enabled/default
 pkill -f --signal 1 "/usr/sbin/nginx"
